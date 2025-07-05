@@ -1,16 +1,27 @@
-## Hi there 👋
+# Hi there 👋 I'm Diane Ishimwe
 
-<!--
-**Ishimwediane/Ishimwediane** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Software Engineer | 💻 Web & Mobile Developer | 🌍 Based in Kigali, Rwanda
 
-Here are some ideas to get you started:
+I'm passionate about building tech solutions that solve real-world problems.  
+I work on web apps, mobile apps, and even embedded systems.  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🔧 Tech Stack
+- 🌐 Frontend: React, Next.js, React Native, Expo
+- 🧠 Backend: Node.js, Express, PostgreSQL, TypeORM
+- 💾 Other: Firebase, Git, Docker, Arduino, PLCs
+
+---
+
+### 💡 Projects
+- 🛍️ **Makemake Shop** – E-commerce platform with installment offers
+- 💬 **Vet-Farmer Live Chat** – Real-time help for farmers
+- 🧠 **ElevIQ** – AI-powered adaptive quiz game
+
+---
+
+### 📫 Let’s connect!
+- GitHub: [@diane-ishimwe](https://github.com/diane-ishimwe)
+- LinkedIn: [Your LinkedIn](#)
+- Email: yourname@email.com
