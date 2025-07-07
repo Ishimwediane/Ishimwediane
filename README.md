@@ -22,6 +22,6 @@ I work on web apps, mobile apps, and even embedded systems.
 ---
 
 ### 📫 Let’s connect!
-- GitHub: [@diane-ishimwe](https://github.com/diane-ishimwe)
-- LinkedIn: [Your LinkedIn](#)
-- Email: yourname@email.com
+- GitHub: [Ishimwediane](https://github.com/Ishimwediane)
+- LinkedIn: (https://www.linkedin.com/in/diane-ishimwe-18b56a206/)
+- Email: ishimwediane400@email.com
